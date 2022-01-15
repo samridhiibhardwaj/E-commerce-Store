@@ -1,3 +1,11 @@
+# E-Commerce Store
+
+A fully functional E-commerce Web Shop.
+
+### [Live Site](https://e-commercebysamridhi.netlify.app)
+
+<img width="1440" alt="5" src="https://user-images.githubusercontent.com/91188761/149633918-6c2987e6-8813-4bc6-8b61-c10299c4990a.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
